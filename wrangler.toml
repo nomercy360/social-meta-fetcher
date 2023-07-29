@@ -1,0 +1,7 @@
+name = "meta-fetcher"
+compatibility_date = "2023-01-01"
+
+[[kv_namespaces]]
+binding = "URL_METADATA"
+id = "58bc8b2307414dd691969d06bf78fc82"
+preview_id = "ba1c4a5a90d44e3aacbdbbd207e21777"
